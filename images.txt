@@ -1,1 +1,1 @@
-alpine
+apache/dolphinscheduler-standalone-server:3.1.8

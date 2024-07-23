@@ -1,1 +1,1 @@
-bitnami/rabbitmq
+apache/dolphinscheduler-standalone-server
